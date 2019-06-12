@@ -1,5 +1,5 @@
 node {
-    dir("/root/"){
+    dir("/root/jagdish"){
     checkout scm
 
     env.DOCKER_API_VERSION="1.23"
